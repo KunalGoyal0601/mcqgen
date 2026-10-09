@@ -1,0 +1,7 @@
+langchain-classic
+langchain-core
+langchain-huggingface
+pandas
+python-dotenv
+PyPDF2
+jupyter
