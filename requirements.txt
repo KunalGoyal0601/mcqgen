@@ -1,7 +1,5 @@
-langchain-classic
-langchain-core
-langchain-huggingface
-pandas
-python-dotenv
-PyPDF2
-jupyter
+langchain-core>=0.3
+langchain-huggingface>=0.1
+python-dotenv>=1.0
+PyPDF2>=3.0
+jupyter>=1.0
